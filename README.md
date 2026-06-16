@@ -32,7 +32,8 @@ a network.
 
 ## Document
 
-- [Project EDEN Charter v1.3 (PDF)](./eden-charter-v1.3.pdf)
+- [Project EDEN Charter v1.4 (PDF)](./Project_EDEN_Charter_v14.pdf) — current
+- [Project EDEN Charter v1.3 (PDF)](./Project_EDEN_Charter_v13.pdf) — previous
 
 ---
 
