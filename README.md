@@ -3,7 +3,7 @@
 **A Research Charter for the Korotel Architecture**  
 *Decentralized Autonomous AI*
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20620916.svg)](https://doi.org/10.5281/zenodo.20620916)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20620915.svg)](https://doi.org/10.5281/zenodo.20620915)
 
 ---
 
@@ -65,6 +65,7 @@ This work is licensed under
   author    = {{Korotel Research Collective}},
   year      = {2025},
   note      = {Version 1.3},
-  doi       = {10.5281/zenodo.20620916},
-  url       = {https://zenodo.org/records/20620916}
+  doi       = {10.5281/zenodo.20620915},
+  url       = {https://zenodo.org/records/20620916},
+  note      = {Version 1.5}
 ```
